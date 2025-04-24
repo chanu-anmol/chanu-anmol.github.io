@@ -28,14 +28,14 @@ const journalEntries = [
         title: "Lorem Ipsum dolor sit amet",
         date: "March, 2025",
         author: "Anmol",
-        preview: "One year ago today, I walked into a cafe seeking shelter from the rain and found so much more. I found my best friend, my confidante, my partner in all things...",
+        preview: "",
         fullContent: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ut nihil voluptates eligendi doloribus sequi ipsa voluptatum dignissimos, quis rerum nobis eius, magnam alias reprehenderit deleniti quam dolore facilis nulla eveniet fuga saepe! Tenetur obcaecati consectetur itaque illum amet assumenda ipsam ex illo recusandae qui, dicta architecto aliquid omnis laboriosam! Voluptatem adipisci saepe vero, consequuntur voluptas pariatur quasi odio atque, amet eum voluptatibus tenetur! Aliquid voluptate esse odit! Deserunt, corrupti dolorum, dolorem officia iste dignissimos facere accusantium laudantium rem aut quas quo et iure qui blanditiis suscipit delectus sequi perferendis debitis, obcaecati reiciendis architecto praesentium sit? Incidunt error possimus magni!"
     },
     {
         title: "lorem ipsem dolor sit amet",
         date: "March, 2025",
         author: "Riddhi",
-        preview: "After months of planning, we finally moved in together today! Our apartment is still filled with boxes, but it already feels like home because we're here together...",
+        preview: "",
         fullContent: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores ut nihil voluptates eligendi doloribus sequi ipsa voluptatum dignissimos, quis rerum nobis eius, magnam alias reprehenderit deleniti quam dolore facilis nulla eveniet fuga saepe! Tenetur obcaecati consectetur itaque illum amet assumenda ipsam ex illo recusandae qui, dicta architecto aliquid omnis laboriosam! Voluptatem adipisci saepe vero, consequuntur voluptas pariatur quasi odio atque, amet eum voluptatibus tenetur! Aliquid voluptate esse odit! Deserunt, corrupti dolorum, dolorem officia iste dignissimos facere accusantium laudantium rem aut quas quo et iure qui blanditiis suscipit delectus sequi perferendis debitis, obcaecati reiciendis architecto praesentium sit? Incidunt error possimus magni!"
     }
 ];
